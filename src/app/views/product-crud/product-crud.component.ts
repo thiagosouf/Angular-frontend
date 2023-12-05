@@ -17,10 +17,9 @@ export class ProductCrudComponent {
       title: "Cadastro de Produtos",
       icon: "storefront",
       routerUrl: "/products"
-      
   }
 }
-
+//teste
   ngOnInit(): void {}
 
   navigateToProductCreate(): void {
