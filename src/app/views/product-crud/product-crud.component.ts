@@ -17,6 +17,7 @@ export class ProductCrudComponent {
       title: "Cadastro de Produtos",
       icon: "storefront",
       routerUrl: "/products"
+      
   }
 }
 
